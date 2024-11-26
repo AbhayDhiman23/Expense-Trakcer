@@ -1,78 +1,5 @@
-# Expense-Tracker
-An expense tracker is a platform where we will list all our income and expenditures from various sources like salary , freelance , food , travel , medical , education etc to make an analysis about our money. So we can have an idea where we are spending our amount.
+# Getting Started with Create React App
 
-# What is an Expense Tracker?
-Personal finance management is an important part of people’s lives. However, everyone does not have the knowledge or time to manage their finances in a proper manner. And, even if a person has time and knowledge, they do not bother with tracking their expenses as they find it tedious and time-consuming. Now, you don’t have to worry about managing your expenses, as you can get access to an expense tracker that will help in the active management of your finances.
-
-# Objective of this Project :
-
-The objective of this project was to create an interactive and completely responsive Expense Tracker website which allows the user to track all of their expenses and income.
-
-# Technology Used :
-* Front-end : React, antd 
-* Back-end : Node.js, MongoDB Atlas 
-* Software Used : Visual Studio, Figma (for UI)
-
-# Some Glimpses of the Project :
-
-![image](https://user-images.githubusercontent.com/90444477/179441638-d8dc945c-35d2-42f8-8bef-98ea96a2a3f6.png)
-
-![image](https://user-images.githubusercontent.com/90444477/179441674-e385e380-c99c-4ede-b710-4e22d8e85855.png)
-
-![image](https://user-images.githubusercontent.com/90444477/179441513-1ba3e4a2-2b61-45cc-b810-c4d3d4c64e74.png)
-
-![image](https://user-images.githubusercontent.com/90444477/179441577-33ce79a9-4c23-4d95-b299-d8a411714527.png)
-
-# Contribute
-
-I'm glad if you want to contribute to this project. 
-
-Please follow [the contribution guide](./CONTRIBUTING.md).
-
-Thanks a lot
-
-
-# Getting Started
-
-This project has a server part and a client part. You need to install and start both.
-
-## Install
-
-In the root directory of this project :
-
-1. Install all back-end dependencies
-
-```bash
-npm install
-```
-2. install all front-end dependencies
-
-```bash
-npm run client-install
-```
-
-## Run
-
-If you're coding into Vscode, you can split your terminal so you can run both scripts and see how it runs 😉
-
-1. Start server in development mode
-
-```bash
-npm run server
-```
-(💡 if you want to start server in production mode run `npm run start`)
-
-2. Start client
-
-```bash
-npm run client
-```
-App is ready and opens in your navigator 🎉
-
-## Create React App informations
-
-<details>
-<summary>Read all informations about available scripts and learn more about Creat React App applications</summary>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -141,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-</details>
